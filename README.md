@@ -1,4 +1,4 @@
-# AP33772S Arduino Library
+# AP33772S Arduino Library By Rabindra 
 
 Full-featured Arduino library for the **Diodes Inc. AP33772S** USB PD 3.1 EPR
 Sink Controller — the chip used on the [CentyLab PicoPD Pro](https://centylab.com)
